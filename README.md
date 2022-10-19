@@ -8,7 +8,7 @@ Oh yeah also this has a lot of bugs and I'm too lazy to fix them. :P
 # Building
 While **Docker** was used in the production of RealityOS, you may something else if you prefer, although, I will only be showing how to setup with Docker.
 
-**TIP**: Make sure you have Docker running.
+**TIP**: Make sure you have Docker running.  
 **TIP**: Make sure you are in RealityOS's root folder.
 
 I have created some `.bat` files to make everyones' life easier.
